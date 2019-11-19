@@ -47,4 +47,7 @@ Check on progress
 	clear && scp ubuntu@52.65.163.141:~/ml-post/darknet/results.txt ~ && tail -1000 ~/results.txt | grep 'avg loss'
 
 
+Save results to videofile
+
+	./darknet detector demo obj.data yolo-obj.cfg yolo-obj_best.weights test.mp4 -out_filename res.avi
 
