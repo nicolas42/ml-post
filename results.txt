@@ -1,34 +1,1000 @@
- 479: 0.653426, 0.566042 avg loss, 0.000053 rate, 2.402202 seconds, 30656 images
- 480: 0.491127, 0.558551 avg loss, 0.000053 rate, 2.416205 seconds, 30720 images
- 481: 0.548942, 0.557590 avg loss, 0.000054 rate, 2.137905 seconds, 30784 images
- 482: 0.520532, 0.553884 avg loss, 0.000054 rate, 2.123729 seconds, 30848 images
- 483: 0.488385, 0.547334 avg loss, 0.000054 rate, 2.149064 seconds, 30912 images
- 484: 0.501148, 0.542716 avg loss, 0.000055 rate, 2.165638 seconds, 30976 images
- 485: 0.675630, 0.556007 avg loss, 0.000055 rate, 2.209073 seconds, 31040 images
- 486: 0.485011, 0.548907 avg loss, 0.000056 rate, 2.169238 seconds, 31104 images
- 487: 0.553922, 0.549409 avg loss, 0.000056 rate, 2.125116 seconds, 31168 images
- 488: 0.445641, 0.539032 avg loss, 0.000057 rate, 2.146070 seconds, 31232 images
- 489: 0.505087, 0.535638 avg loss, 0.000057 rate, 2.144705 seconds, 31296 images
- 490: 0.543305, 0.536404 avg loss, 0.000058 rate, 2.131934 seconds, 31360 images
- 491: 0.559310, 0.538695 avg loss, 0.000058 rate, 2.008583 seconds, 31424 images
- 492: 0.580935, 0.542919 avg loss, 0.000059 rate, 1.988808 seconds, 31488 images
- 493: 0.657953, 0.554422 avg loss, 0.000059 rate, 1.999129 seconds, 31552 images
- 494: 0.739098, 0.572890 avg loss, 0.000060 rate, 2.030556 seconds, 31616 images
- 495: 0.630345, 0.578635 avg loss, 0.000060 rate, 1.985204 seconds, 31680 images
- 496: 0.448013, 0.565573 avg loss, 0.000061 rate, 1.995388 seconds, 31744 images
- 497: 0.560686, 0.565084 avg loss, 0.000061 rate, 2.067558 seconds, 31808 images
- 498: 0.466439, 0.555220 avg loss, 0.000062 rate, 2.087643 seconds, 31872 images
- 499: 0.611612, 0.560859 avg loss, 0.000062 rate, 2.050342 seconds, 31936 images
- 500: 0.738893, 0.578663 avg loss, 0.000063 rate, 1.974021 seconds, 32000 images
- 501: 0.562141, 0.577010 avg loss, 0.000063 rate, 1.328890 seconds, 32064 images
- 502: 0.703191, 0.589628 avg loss, 0.000064 rate, 1.346246 seconds, 32128 images
- 503: 0.446727, 0.575338 avg loss, 0.000064 rate, 1.353360 seconds, 32192 images
- 504: 0.575283, 0.575333 avg loss, 0.000065 rate, 1.327139 seconds, 32256 images
- 505: 0.721119, 0.589911 avg loss, 0.000065 rate, 1.339448 seconds, 32320 images
- 506: 0.562090, 0.587129 avg loss, 0.000066 rate, 1.349828 seconds, 32384 images
- 507: 0.711894, 0.599606 avg loss, 0.000066 rate, 1.345712 seconds, 32448 images
- 508: 0.577740, 0.597419 avg loss, 0.000067 rate, 1.327406 seconds, 32512 images
- 509: 0.465569, 0.584234 avg loss, 0.000067 rate, 1.345848 seconds, 32576 images
- 510: 0.455698, 0.571380 avg loss, 0.000068 rate, 1.335256 seconds, 32640 images
- 511: 0.509583, 0.565201 avg loss, 0.000068 rate, 2.085233 seconds, 32704 images
- 512: 0.374189, 0.546100 avg loss, 0.000069 rate, 2.086339 seconds, 32768 images
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.767193, GIOU: 0.758879), Class: 0.995940, Obj: 0.592344, No Obj: 0.000478, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.794842, GIOU: 0.792758), Class: 0.991273, Obj: 0.632756, No Obj: 0.000135, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.659493, GIOU: 0.620836), Class: 0.993373, Obj: 0.654317, No Obj: 0.000045, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000291, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.726160, GIOU: 0.699346), Class: 0.992211, Obj: 0.109172, No Obj: 0.000043, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.691502, GIOU: 0.660693), Class: 0.981522, Obj: 0.265883, No Obj: 0.000035, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.704856, GIOU: 0.673923), Class: 0.997028, Obj: 0.585000, No Obj: 0.000802, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.755639, GIOU: 0.743367), Class: 0.993780, Obj: 0.670394, No Obj: 0.000136, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.836631, GIOU: 0.835013), Class: 0.985069, Obj: 0.364507, No Obj: 0.000043, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.748177, GIOU: 0.742524), Class: 0.993987, Obj: 0.740771, No Obj: 0.000840, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.857505, GIOU: 0.855217), Class: 0.990369, Obj: 0.156162, No Obj: 0.000040, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.756739, GIOU: 0.756738), Class: 0.976514, Obj: 0.401193, No Obj: 0.000043, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.781377, GIOU: 0.777694), Class: 0.992396, Obj: 0.827212, No Obj: 0.000442, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.685825, GIOU: 0.653158), Class: 0.979548, Obj: 0.041792, No Obj: 0.000057, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.771570, GIOU: 0.754990), Class: 0.987911, Obj: 0.408576, No Obj: 0.000041, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.890666, GIOU: 0.888323), Class: 0.938680, Obj: 0.000292, No Obj: 0.000004, .5R: 1.000000, .75R: 1.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1230: 0.151312, 0.220331 avg loss, 0.001000 rate, 1.362201 seconds, 78720 images
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 384.20 MB 
+ CUDA allocate done! 
+Loaded: 0.000035 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.836588, GIOU: 0.832064), Class: 0.992007, Obj: 0.731037, No Obj: 0.000927, .5R: 1.000000, .75R: 1.000000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.409978, GIOU: 0.381377), Class: 0.970572, Obj: 0.004379, No Obj: 0.000004, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.680736, GIOU: 0.654300), Class: 0.986419, Obj: 0.464104, No Obj: 0.001200, .5R: 1.000000, .75R: 0.000000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.765782, GIOU: 0.748954), Class: 0.993144, Obj: 0.031650, No Obj: 0.000060, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.550652, GIOU: 0.532737), Class: 0.965487, Obj: 0.151373, No Obj: 0.000024, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.761869, GIOU: 0.742869), Class: 0.991329, Obj: 0.483773, No Obj: 0.000663, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.762008, GIOU: 0.745827), Class: 0.949405, Obj: 0.018218, No Obj: 0.000014, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.726906, GIOU: 0.718293), Class: 0.990838, Obj: 0.388783, No Obj: 0.000880, .5R: 1.000000, .75R: 0.166667, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.567671, GIOU: 0.567671), Class: 0.979800, Obj: 0.009571, No Obj: 0.000073, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.743345, GIOU: 0.727751), Class: 0.968791, Obj: 0.353469, No Obj: 0.000732, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.612628, GIOU: 0.557745), Class: 0.980099, Obj: 0.060757, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.783244, GIOU: 0.781927), Class: 0.996691, Obj: 0.859978, No Obj: 0.000845, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.939651, GIOU: 0.939185), Class: 0.984762, Obj: 0.160464, No Obj: 0.000027, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.772651, GIOU: 0.764244), Class: 0.967126, Obj: 0.343268, No Obj: 0.001144, .5R: 1.000000, .75R: 0.571429, count: 7
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000067, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.837308, GIOU: 0.833857), Class: 0.980500, Obj: 0.506915, No Obj: 0.000958, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.763341, GIOU: 0.757567), Class: 0.975231, Obj: 0.133460, No Obj: 0.000020, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1231: 0.281874, 0.226486 avg loss, 0.001000 rate, 2.153790 seconds, 78784 images
+Loaded: 0.657360 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.732727, GIOU: 0.732727), Class: 0.999367, Obj: 0.976730, No Obj: 0.000172, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.690948, GIOU: 0.668602), Class: 0.989451, Obj: 0.543398, No Obj: 0.000038, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.772677, GIOU: 0.770943), Class: 0.974072, Obj: 0.632328, No Obj: 0.001232, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.802920, GIOU: 0.794808), Class: 0.981987, Obj: 0.076954, No Obj: 0.000062, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.814564, GIOU: 0.813834), Class: 0.989896, Obj: 0.628265, No Obj: 0.000739, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000016, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.718491, GIOU: 0.694796), Class: 0.996313, Obj: 0.173575, No Obj: 0.000021, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.739382, GIOU: 0.738025), Class: 0.996714, Obj: 0.724175, No Obj: 0.000478, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000028, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.671372, GIOU: 0.632773), Class: 0.971530, Obj: 0.180122, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.805239, GIOU: 0.800861), Class: 0.994810, Obj: 0.846678, No Obj: 0.000911, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.724515, GIOU: 0.724515), Class: 0.994318, Obj: 0.282780, No Obj: 0.000058, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.623984, GIOU: 0.623986), Class: 0.974926, Obj: 0.123077, No Obj: 0.000026, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.803373, GIOU: 0.798812), Class: 0.997076, Obj: 0.875453, No Obj: 0.000612, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.594285, GIOU: 0.561476), Class: 0.981631, Obj: 0.494760, No Obj: 0.000167, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.819420, GIOU: 0.817117), Class: 0.983164, Obj: 0.039981, No Obj: 0.000021, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.712892, GIOU: 0.701176), Class: 0.994723, Obj: 0.668044, No Obj: 0.000941, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.300964, GIOU: 0.156941), Class: 0.968220, Obj: 0.013961, No Obj: 0.000002, .5R: 0.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1232: 0.165381, 0.220375 avg loss, 0.001000 rate, 2.122886 seconds, 78848 images
+Loaded: 0.510666 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.792216, GIOU: 0.788605), Class: 0.996253, Obj: 0.898140, No Obj: 0.000726, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.748986, GIOU: 0.744294), Class: 0.979167, Obj: 0.537246, No Obj: 0.000811, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000037, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.766950, GIOU: 0.763187), Class: 0.985133, Obj: 0.523360, No Obj: 0.001244, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.606711, GIOU: 0.592964), Class: 0.974785, Obj: 0.014665, No Obj: 0.000011, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.737399, GIOU: 0.729536), Class: 0.994199, Obj: 0.647708, No Obj: 0.000617, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.587615, GIOU: 0.587615), Class: 0.970856, Obj: 0.014529, No Obj: 0.000043, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.647294, GIOU: 0.599327), Class: 0.989777, Obj: 0.245623, No Obj: 0.000055, .5R: 0.666667, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.733477, GIOU: 0.716768), Class: 0.991697, Obj: 0.585522, No Obj: 0.000757, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000032, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.864459, GIOU: 0.858647), Class: 0.999221, Obj: 0.920446, No Obj: 0.000333, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.259500, GIOU: 0.259500), Class: 0.961727, Obj: 0.003207, No Obj: 0.000003, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.747172, GIOU: 0.741876), Class: 0.988887, Obj: 0.435411, No Obj: 0.001611, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.730769, GIOU: 0.714574), Class: 0.989958, Obj: 0.612032, No Obj: 0.001567, .5R: 1.000000, .75R: 0.428571, count: 7
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000034, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.718770, GIOU: 0.698573), Class: 0.972163, Obj: 0.156313, No Obj: 0.000015, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1233: 0.247765, 0.223114 avg loss, 0.001000 rate, 2.146476 seconds, 78912 images
+Loaded: 0.514232 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.810683, GIOU: 0.804456), Class: 0.984546, Obj: 0.343912, No Obj: 0.001119, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.771077, GIOU: 0.771078), Class: 0.989577, Obj: 0.134241, No Obj: 0.000020, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.793055, GIOU: 0.788669), Class: 0.994609, Obj: 0.753388, No Obj: 0.000672, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.842909, GIOU: 0.841768), Class: 0.987365, Obj: 0.634741, No Obj: 0.001235, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.713972, GIOU: 0.697235), Class: 0.962070, Obj: 0.510206, No Obj: 0.001291, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.631889, GIOU: 0.631890), Class: 0.984831, Obj: 0.004883, No Obj: 0.000016, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.801428, GIOU: 0.799830), Class: 0.998356, Obj: 0.522674, No Obj: 0.000393, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.693034, GIOU: 0.674105), Class: 0.984628, Obj: 0.557873, No Obj: 0.001214, .5R: 0.833333, .75R: 0.166667, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.706067, GIOU: 0.704366), Class: 0.995149, Obj: 0.818426, No Obj: 0.000587, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.467374, GIOU: 0.341896), Class: 0.931023, Obj: 0.020407, No Obj: 0.000026, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.455441, GIOU: 0.333028), Class: 0.977391, Obj: 0.000293, No Obj: 0.000017, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.774956, GIOU: 0.766588), Class: 0.995889, Obj: 0.608397, No Obj: 0.000524, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.854137, GIOU: 0.854137), Class: 0.942540, Obj: 0.283010, No Obj: 0.000041, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.739836, GIOU: 0.729133), Class: 0.985919, Obj: 0.636950, No Obj: 0.000027, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1234: 0.190995, 0.219902 avg loss, 0.001000 rate, 2.101388 seconds, 78976 images
+Loaded: 0.277016 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.672661, GIOU: 0.670468), Class: 0.969451, Obj: 0.335915, No Obj: 0.000642, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.765862, GIOU: 0.765549), Class: 0.992134, Obj: 0.331076, No Obj: 0.000031, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.588886, GIOU: 0.588886), Class: 0.996661, Obj: 0.755981, No Obj: 0.000025, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.812468, GIOU: 0.807801), Class: 0.991033, Obj: 0.693123, No Obj: 0.000815, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.833990, GIOU: 0.828402), Class: 0.999775, Obj: 0.870547, No Obj: 0.000394, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.784622, GIOU: 0.780164), Class: 0.976987, Obj: 0.010268, No Obj: 0.000012, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.829367, GIOU: 0.829237), Class: 0.962780, Obj: 0.027738, No Obj: 0.000008, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.768399, GIOU: 0.754966), Class: 0.996606, Obj: 0.622865, No Obj: 0.000454, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000047, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.588095, GIOU: 0.588095), Class: 0.999117, Obj: 0.138267, No Obj: 0.000005, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.771511, GIOU: 0.768892), Class: 0.994727, Obj: 0.389398, No Obj: 0.000780, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.779421, GIOU: 0.778308), Class: 0.992364, Obj: 0.728419, No Obj: 0.001106, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.785341, GIOU: 0.771207), Class: 0.989292, Obj: 0.258098, No Obj: 0.000022, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.807863, GIOU: 0.794883), Class: 0.993800, Obj: 0.407562, No Obj: 0.000645, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.556266, GIOU: 0.504619), Class: 0.994559, Obj: 0.027424, No Obj: 0.000016, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.811024, GIOU: 0.806681), Class: 0.967519, Obj: 0.499819, No Obj: 0.000983, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.704657, GIOU: 0.701114), Class: 0.990178, Obj: 0.041932, No Obj: 0.000024, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1235: 0.154887, 0.213401 avg loss, 0.001000 rate, 2.111850 seconds, 79040 images
+Loaded: 0.596469 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.783419, GIOU: 0.783420), Class: 0.994463, Obj: 0.448684, No Obj: 0.000671, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.705491, GIOU: 0.680626), Class: 0.985212, Obj: 0.498137, No Obj: 0.000877, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.845554, GIOU: 0.840915), Class: 0.997074, Obj: 0.055929, No Obj: 0.000023, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.783183, GIOU: 0.772538), Class: 0.998331, Obj: 0.735296, No Obj: 0.000434, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.815520, GIOU: 0.814024), Class: 0.994161, Obj: 0.240338, No Obj: 0.000055, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.507970, GIOU: 0.507969), Class: 0.999494, Obj: 0.009681, No Obj: 0.000004, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.839682, GIOU: 0.835964), Class: 0.995839, Obj: 0.753921, No Obj: 0.000728, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.814037, GIOU: 0.810392), Class: 0.990362, Obj: 0.805765, No Obj: 0.000376, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.924146, GIOU: 0.923541), Class: 0.994227, Obj: 0.167399, No Obj: 0.000017, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.729134, GIOU: 0.722734), Class: 0.994904, Obj: 0.428754, No Obj: 0.000496, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.749016, GIOU: 0.734836), Class: 0.997376, Obj: 0.448183, No Obj: 0.000032, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.736598, GIOU: 0.731669), Class: 0.994732, Obj: 0.604205, No Obj: 0.000942, .5R: 1.000000, .75R: 0.600000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.790138, GIOU: 0.786024), Class: 0.993772, Obj: 0.747764, No Obj: 0.000728, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.749723, GIOU: 0.749723), Class: 0.992822, Obj: 0.264453, No Obj: 0.000061, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.831910, GIOU: 0.831760), Class: 0.996329, Obj: 0.355423, No Obj: 0.000009, .5R: 1.000000, .75R: 1.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1236: 0.133104, 0.205371 avg loss, 0.001000 rate, 2.137076 seconds, 79104 images
+Loaded: 0.459094 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.786888, GIOU: 0.776048), Class: 0.996150, Obj: 0.615339, No Obj: 0.000733, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.719703, GIOU: 0.719704), Class: 0.997979, Obj: 0.132724, No Obj: 0.000026, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.781442, GIOU: 0.773512), Class: 0.985987, Obj: 0.181191, No Obj: 0.000015, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.726933, GIOU: 0.710424), Class: 0.993906, Obj: 0.575864, No Obj: 0.000669, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.288910, GIOU: 0.180277), Class: 0.962285, Obj: 0.004507, No Obj: 0.000003, .5R: 0.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.789538, GIOU: 0.781346), Class: 0.979494, Obj: 0.545480, No Obj: 0.000509, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.597172, GIOU: 0.591058), Class: 0.998242, Obj: 0.104096, No Obj: 0.000060, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.551401, GIOU: 0.477619), Class: 0.995019, Obj: 0.024939, No Obj: 0.000003, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.738114, GIOU: 0.728550), Class: 0.992153, Obj: 0.463257, No Obj: 0.001004, .5R: 1.000000, .75R: 0.333333, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.557387, GIOU: 0.557387), Class: 0.993058, Obj: 0.508818, No Obj: 0.000038, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.824549, GIOU: 0.823266), Class: 0.994319, Obj: 0.736202, No Obj: 0.000975, .5R: 1.000000, .75R: 1.000000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.731299, GIOU: 0.731299), Class: 0.993102, Obj: 0.150637, No Obj: 0.000032, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.712711, GIOU: 0.692966), Class: 0.994433, Obj: 0.494429, No Obj: 0.000619, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.764249, GIOU: 0.749787), Class: 0.993361, Obj: 0.427851, No Obj: 0.000795, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.689462, GIOU: 0.689462), Class: 0.898779, Obj: 0.046575, No Obj: 0.000039, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.879527, GIOU: 0.877835), Class: 0.978126, Obj: 0.128260, No Obj: 0.000019, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.773288, GIOU: 0.760464), Class: 0.991745, Obj: 0.558765, No Obj: 0.000704, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1237: 0.239541, 0.208788 avg loss, 0.001000 rate, 2.180021 seconds, 79168 images
+Loaded: 0.748275 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.763625, GIOU: 0.757784), Class: 0.995783, Obj: 0.701724, No Obj: 0.000674, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.754994, GIOU: 0.752675), Class: 0.991948, Obj: 0.413608, No Obj: 0.000043, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.827441, GIOU: 0.818229), Class: 0.993061, Obj: 0.281825, No Obj: 0.000524, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000044, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.795473, GIOU: 0.783878), Class: 0.987861, Obj: 0.462489, No Obj: 0.000012, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.808084, GIOU: 0.803636), Class: 0.996910, Obj: 0.495571, No Obj: 0.000492, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.821642, GIOU: 0.820430), Class: 0.994681, Obj: 0.895030, No Obj: 0.000051, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.469655, GIOU: 0.448976), Class: 0.957054, Obj: 0.008317, No Obj: 0.000002, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.732271, GIOU: 0.731941), Class: 0.997600, Obj: 0.578481, No Obj: 0.000339, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.933007, GIOU: 0.932212), Class: 0.997017, Obj: 0.345645, No Obj: 0.000057, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.726780, GIOU: 0.702986), Class: 0.985621, Obj: 0.489213, No Obj: 0.000607, .5R: 0.666667, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.738271, GIOU: 0.738271), Class: 0.994082, Obj: 0.032306, No Obj: 0.000032, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.748629, GIOU: 0.743630), Class: 0.993482, Obj: 0.406272, No Obj: 0.000790, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.567067, GIOU: 0.524272), Class: 0.999913, Obj: 0.367258, No Obj: 0.000140, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.622823, GIOU: 0.621068), Class: 0.948675, Obj: 0.003404, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.787974, GIOU: 0.778038), Class: 0.988295, Obj: 0.379516, No Obj: 0.000704, .5R: 1.000000, .75R: 0.833333, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000042, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1238: 0.166117, 0.204521 avg loss, 0.001000 rate, 2.116022 seconds, 79232 images
+Loaded: 0.253957 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.647837, GIOU: 0.623008), Class: 0.996901, Obj: 0.234277, No Obj: 0.000132, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.745540, GIOU: 0.739587), Class: 0.987823, Obj: 0.358960, No Obj: 0.000680, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000079, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.729581, GIOU: 0.724017), Class: 0.988125, Obj: 0.140920, No Obj: 0.000009, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.780119, GIOU: 0.770440), Class: 0.991449, Obj: 0.682276, No Obj: 0.001052, .5R: 1.000000, .75R: 0.666667, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000051, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.740130, GIOU: 0.728495), Class: 0.992576, Obj: 0.437628, No Obj: 0.000400, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.671735, GIOU: 0.627084), Class: 0.888713, Obj: 0.053479, No Obj: 0.000009, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.790011, GIOU: 0.780786), Class: 0.997121, Obj: 0.615511, No Obj: 0.000375, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.703737, GIOU: 0.679175), Class: 0.993411, Obj: 0.174878, No Obj: 0.000045, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.712950, GIOU: 0.695224), Class: 0.988544, Obj: 0.195687, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000069, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.670607, GIOU: 0.650011), Class: 0.994503, Obj: 0.015113, No Obj: 0.000039, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.803196, GIOU: 0.796232), Class: 0.990140, Obj: 0.438388, No Obj: 0.000013, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.814987, GIOU: 0.809379), Class: 0.994346, Obj: 0.395417, No Obj: 0.000506, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000041, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.628797, GIOU: 0.578479), Class: 0.988859, Obj: 0.150663, No Obj: 0.000015, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.822667, GIOU: 0.817962), Class: 0.995424, Obj: 0.628392, No Obj: 0.000780, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.717492, GIOU: 0.709282), Class: 0.994821, Obj: 0.502558, No Obj: 0.000012, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1239: 0.180425, 0.202111 avg loss, 0.001000 rate, 2.128751 seconds, 79296 images
+Loaded: 0.877959 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.770571, GIOU: 0.759866), Class: 0.995629, Obj: 0.517807, No Obj: 0.000599, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.770625, GIOU: 0.759784), Class: 0.986088, Obj: 0.263226, No Obj: 0.000552, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.629346, GIOU: 0.578587), Class: 0.998953, Obj: 0.769505, No Obj: 0.000048, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.382036, GIOU: 0.287882), Class: 0.954964, Obj: 0.003215, No Obj: 0.000005, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.829681, GIOU: 0.828044), Class: 0.995443, Obj: 0.442410, No Obj: 0.000474, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.853559, GIOU: 0.853014), Class: 0.958770, Obj: 0.094449, No Obj: 0.000038, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.851764, GIOU: 0.851389), Class: 0.993026, Obj: 0.182152, No Obj: 0.000481, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000039, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.458089, GIOU: 0.458089), Class: 0.926393, Obj: 0.000261, No Obj: 0.000003, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.739026, GIOU: 0.724129), Class: 0.995725, Obj: 0.396188, No Obj: 0.000778, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.640541, GIOU: 0.594835), Class: 0.995093, Obj: 0.098728, No Obj: 0.000047, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.674367, GIOU: 0.656128), Class: 0.995698, Obj: 0.634616, No Obj: 0.000552, .5R: 1.000000, .75R: 0.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000038, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.630402, GIOU: 0.630401), Class: 0.919742, Obj: 0.002994, No Obj: 0.000003, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.755359, GIOU: 0.745875), Class: 0.990710, Obj: 0.565920, No Obj: 0.000581, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000032, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.864157, GIOU: 0.861565), Class: 0.982585, Obj: 0.154204, No Obj: 0.000014, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.887450, GIOU: 0.886075), Class: 0.995847, Obj: 0.773391, No Obj: 0.000666, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1240: 0.259993, 0.207899 avg loss, 0.001000 rate, 2.132169 seconds, 79360 images
+Resizing
+512 x 512 
+ used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3551395840
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3563978752
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3576561664
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3589144576
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3601727488
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3614310400
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3626893312
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3639476224
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3652059136
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3660447744
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3668836352
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3677224960
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3685613568
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3685613568
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4571791360, available: 3685613568
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3714973696
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3714973696
+ CUDNN-slow  used slow CUDNN algo without Workspace! Need memory: 4445962240, available: 3714973696
+ CUDNN-slow  try to allocate additional workspace_size = 303.57 MB 
+ CUDA allocate done! 
+Loaded: 1.950044 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.815256, GIOU: 0.814776), Class: 0.994460, Obj: 0.550295, No Obj: 0.000439, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.473573, GIOU: 0.473573), Class: 0.967118, Obj: 0.018309, No Obj: 0.000007, .5R: 0.500000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.860941, GIOU: 0.855388), Class: 0.999389, Obj: 0.901862, No Obj: 0.000250, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000040, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.675352, GIOU: 0.638690), Class: 0.999399, Obj: 0.055939, No Obj: 0.000004, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.755497, GIOU: 0.745802), Class: 0.993765, Obj: 0.639525, No Obj: 0.000644, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.815199, GIOU: 0.813532), Class: 0.993604, Obj: 0.808113, No Obj: 0.000067, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.802014, GIOU: 0.800889), Class: 0.997348, Obj: 0.240980, No Obj: 0.000015, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.710016, GIOU: 0.710016), Class: 0.994301, Obj: 0.347488, No Obj: 0.000387, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.690740, GIOU: 0.659815), Class: 0.998746, Obj: 0.478508, No Obj: 0.000076, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.724958, GIOU: 0.712647), Class: 0.998324, Obj: 0.743077, No Obj: 0.000808, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.743926, GIOU: 0.720490), Class: 0.993072, Obj: 0.274104, No Obj: 0.000210, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.685218, GIOU: 0.673821), Class: 0.999299, Obj: 0.938891, No Obj: 0.000227, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.698045, GIOU: 0.698046), Class: 0.992839, Obj: 0.065070, No Obj: 0.000457, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000050, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.787042, GIOU: 0.781201), Class: 0.999392, Obj: 0.096869, No Obj: 0.000014, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.892050, GIOU: 0.890747), Class: 0.988854, Obj: 0.536191, No Obj: 0.000662, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.783558, GIOU: 0.781573), Class: 0.990811, Obj: 0.191414, No Obj: 0.000095, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1241: 0.175928, 0.204702 avg loss, 0.001000 rate, 1.999815 seconds, 79424 images
+Loaded: 0.119234 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.737325, GIOU: 0.727856), Class: 0.990935, Obj: 0.438545, No Obj: 0.000453, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000068, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.589801, GIOU: 0.556434), Class: 0.966980, Obj: 0.084175, No Obj: 0.000005, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.720049, GIOU: 0.719955), Class: 0.989552, Obj: 0.602272, No Obj: 0.000787, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000065, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.702314, GIOU: 0.672101), Class: 0.991530, Obj: 0.058570, No Obj: 0.000006, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.749872, GIOU: 0.744555), Class: 0.993943, Obj: 0.714750, No Obj: 0.000937, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.681098, GIOU: 0.646665), Class: 0.997361, Obj: 0.228313, No Obj: 0.000069, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000249, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.662398, GIOU: 0.662398), Class: 0.999196, Obj: 0.433510, No Obj: 0.000090, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.749808, GIOU: 0.736185), Class: 0.998733, Obj: 0.408517, No Obj: 0.000009, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.644863, GIOU: 0.641422), Class: 0.994152, Obj: 0.741541, No Obj: 0.000932, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.842653, GIOU: 0.838268), Class: 0.994897, Obj: 0.338123, No Obj: 0.000102, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.630818, GIOU: 0.630818), Class: 0.973849, Obj: 0.044211, No Obj: 0.000006, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.673286, GIOU: 0.668979), Class: 0.994537, Obj: 0.833377, No Obj: 0.000500, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.573740, GIOU: 0.573740), Class: 0.993964, Obj: 0.585000, No Obj: 0.000142, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.541120, GIOU: 0.541120), Class: 0.999108, Obj: 0.002744, No Obj: 0.000004, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.645318, GIOU: 0.642819), Class: 0.998761, Obj: 0.576470, No Obj: 0.000744, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.718460, GIOU: 0.712276), Class: 0.992806, Obj: 0.538937, No Obj: 0.000968, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000066, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.526912, GIOU: 0.439246), Class: 0.997360, Obj: 0.024429, No Obj: 0.000004, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1242: 0.177573, 0.201989 avg loss, 0.001000 rate, 1.994172 seconds, 79488 images
+Loaded: 0.720971 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.763084, GIOU: 0.753731), Class: 0.994405, Obj: 0.591458, No Obj: 0.000822, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.779379, GIOU: 0.768198), Class: 0.985061, Obj: 0.113605, No Obj: 0.000105, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.753776, GIOU: 0.740024), Class: 0.989416, Obj: 0.038481, No Obj: 0.000017, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.811786, GIOU: 0.802968), Class: 0.993667, Obj: 0.535661, No Obj: 0.001034, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000044, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.717353, GIOU: 0.696396), Class: 0.996380, Obj: 0.309658, No Obj: 0.000014, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.720321, GIOU: 0.720321), Class: 0.997794, Obj: 0.022406, No Obj: 0.000153, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.761227, GIOU: 0.760338), Class: 0.993067, Obj: 0.404061, No Obj: 0.000084, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.731139, GIOU: 0.725360), Class: 0.979902, Obj: 0.526502, No Obj: 0.001073, .5R: 1.000000, .75R: 0.333333, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000043, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.723673, GIOU: 0.701756), Class: 0.997889, Obj: 0.137878, No Obj: 0.000010, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.643892, GIOU: 0.636710), Class: 0.994947, Obj: 0.567310, No Obj: 0.000360, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.581251, GIOU: 0.581251), Class: 0.993538, Obj: 0.292163, No Obj: 0.000067, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.584802, GIOU: 0.549378), Class: 0.940237, Obj: 0.000063, No Obj: 0.000006, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.799524, GIOU: 0.798206), Class: 0.993614, Obj: 0.577237, No Obj: 0.000705, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.812357, GIOU: 0.809564), Class: 0.994747, Obj: 0.426967, No Obj: 0.000468, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.673988, GIOU: 0.660960), Class: 0.992336, Obj: 0.755334, No Obj: 0.000759, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1243: 0.151553, 0.196946 avg loss, 0.001000 rate, 1.999897 seconds, 79552 images
+Loaded: 0.222444 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.732928, GIOU: 0.730946), Class: 0.994291, Obj: 0.361430, No Obj: 0.000638, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.821909, GIOU: 0.821909), Class: 0.993778, Obj: 0.604886, No Obj: 0.000105, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.682706, GIOU: 0.668788), Class: 0.987508, Obj: 0.045671, No Obj: 0.000006, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.812746, GIOU: 0.810668), Class: 0.998579, Obj: 0.887386, No Obj: 0.000551, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000034, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.736270, GIOU: 0.727531), Class: 0.929043, Obj: 0.012576, No Obj: 0.000014, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.780484, GIOU: 0.777412), Class: 0.995183, Obj: 0.657698, No Obj: 0.000929, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.753850, GIOU: 0.734158), Class: 0.982921, Obj: 0.174283, No Obj: 0.000045, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.845387, GIOU: 0.841586), Class: 0.997117, Obj: 0.956648, No Obj: 0.000271, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.721411, GIOU: 0.699225), Class: 0.988877, Obj: 0.258520, No Obj: 0.000910, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.567631, GIOU: 0.491775), Class: 0.997927, Obj: 0.020524, No Obj: 0.000010, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000088, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.736838, GIOU: 0.736838), Class: 0.992574, Obj: 0.530805, No Obj: 0.000078, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.630483, GIOU: 0.556438), Class: 0.960545, Obj: 0.003570, No Obj: 0.000030, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.777329, GIOU: 0.775645), Class: 0.993751, Obj: 0.662627, No Obj: 0.001126, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.761382, GIOU: 0.748003), Class: 0.978660, Obj: 0.378134, No Obj: 0.000040, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.791527, GIOU: 0.777992), Class: 0.975625, Obj: 0.035916, No Obj: 0.000010, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000030, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.743664, GIOU: 0.731795), Class: 0.991282, Obj: 0.483303, No Obj: 0.000035, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.588412, GIOU: 0.588223), Class: 0.959111, Obj: 0.000217, No Obj: 0.000016, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1244: 0.171095, 0.194361 avg loss, 0.001000 rate, 1.981191 seconds, 79616 images
+Loaded: 0.648863 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.823153, GIOU: 0.818038), Class: 0.968581, Obj: 0.373636, No Obj: 0.000450, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.697300, GIOU: 0.697300), Class: 0.997156, Obj: 0.638141, No Obj: 0.000040, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.804900, GIOU: 0.802601), Class: 0.986056, Obj: 0.585976, No Obj: 0.000956, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.749495, GIOU: 0.738529), Class: 0.995607, Obj: 0.733773, No Obj: 0.000779, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.738537, GIOU: 0.732561), Class: 0.998770, Obj: 0.428243, No Obj: 0.000049, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.693967, GIOU: 0.672870), Class: 0.983519, Obj: 0.220798, No Obj: 0.000327, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.830297, GIOU: 0.821801), Class: 0.999390, Obj: 0.585974, No Obj: 0.000079, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.843462, GIOU: 0.837670), Class: 0.998489, Obj: 0.772121, No Obj: 0.000027, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.813454, GIOU: 0.809149), Class: 0.989302, Obj: 0.753032, No Obj: 0.000487, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.723133, GIOU: 0.723133), Class: 0.998078, Obj: 0.250816, No Obj: 0.000042, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.807242, GIOU: 0.806588), Class: 0.997839, Obj: 0.971488, No Obj: 0.000360, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.809150, GIOU: 0.803799), Class: 0.994658, Obj: 0.054976, No Obj: 0.000048, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.117016, GIOU: -0.125866), Class: 0.948744, Obj: 0.034266, No Obj: 0.000012, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.852622, GIOU: 0.850853), Class: 0.997000, Obj: 0.878913, No Obj: 0.000877, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000020, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.895060, GIOU: 0.892054), Class: 0.998947, Obj: 0.420539, No Obj: 0.000015, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.804782, GIOU: 0.801509), Class: 0.989772, Obj: 0.726945, No Obj: 0.001359, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.641013, GIOU: 0.604441), Class: 0.960744, Obj: 0.228598, No Obj: 0.000016, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1245: 0.175265, 0.192451 avg loss, 0.001000 rate, 1.990894 seconds, 79680 images
+Loaded: 0.196142 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.893771, GIOU: 0.891413), Class: 0.984883, Obj: 0.656502, No Obj: 0.001198, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000042, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.615531, GIOU: 0.565263), Class: 0.979520, Obj: 0.097588, No Obj: 0.000038, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.861087, GIOU: 0.860603), Class: 0.987869, Obj: 0.185123, No Obj: 0.000605, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.776313, GIOU: 0.776312), Class: 0.996659, Obj: 0.290175, No Obj: 0.000023, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.913683, GIOU: 0.912473), Class: 0.998339, Obj: 0.991624, No Obj: 0.000275, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.905941, GIOU: 0.903771), Class: 0.984721, Obj: 0.193804, No Obj: 0.000036, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.662999, GIOU: 0.635551), Class: 0.981133, Obj: 0.433785, No Obj: 0.000027, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.850574, GIOU: 0.846462), Class: 0.996895, Obj: 0.960144, No Obj: 0.000358, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.865832, GIOU: 0.861941), Class: 0.997862, Obj: 0.605311, No Obj: 0.000040, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.459024, GIOU: 0.323012), Class: 0.962109, Obj: 0.070718, No Obj: 0.000013, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.768625, GIOU: 0.764110), Class: 0.990037, Obj: 0.566947, No Obj: 0.001231, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.577841, GIOU: 0.549002), Class: 0.998513, Obj: 0.345068, No Obj: 0.000060, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.697144, GIOU: 0.696159), Class: 0.995378, Obj: 0.740718, No Obj: 0.000842, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.665261, GIOU: 0.665261), Class: 0.989910, Obj: 0.141965, No Obj: 0.000055, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.839107, GIOU: 0.836488), Class: 0.996448, Obj: 0.726010, No Obj: 0.000599, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000026, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.642642, GIOU: 0.621542), Class: 0.982950, Obj: 0.494060, No Obj: 0.000018, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.858212, GIOU: 0.854764), Class: 0.999322, Obj: 0.973612, No Obj: 0.000410, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.822299, GIOU: 0.810280), Class: 0.995109, Obj: 0.303939, No Obj: 0.000049, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1246: 0.175230, 0.190729 avg loss, 0.001000 rate, 1.982894 seconds, 79744 images
+Loaded: 0.000057 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.745288, GIOU: 0.745288), Class: 0.993761, Obj: 0.754640, No Obj: 0.000233, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000063, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.693938, GIOU: 0.686811), Class: 0.963892, Obj: 0.234869, No Obj: 0.000022, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.778135, GIOU: 0.774553), Class: 0.995854, Obj: 0.307496, No Obj: 0.000692, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.855293, GIOU: 0.854931), Class: 0.998217, Obj: 0.360168, No Obj: 0.000062, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.641770, GIOU: 0.604807), Class: 0.999484, Obj: 0.728376, No Obj: 0.000020, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.818074, GIOU: 0.814332), Class: 0.989053, Obj: 0.664569, No Obj: 0.000946, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.814847, GIOU: 0.814847), Class: 0.978448, Obj: 0.110664, No Obj: 0.000016, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.824918, GIOU: 0.823449), Class: 0.991702, Obj: 0.809701, No Obj: 0.000652, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000045, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.625478, GIOU: 0.590346), Class: 0.971827, Obj: 0.137939, No Obj: 0.000040, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.754540, GIOU: 0.745898), Class: 0.989033, Obj: 0.633019, No Obj: 0.000396, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000016, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.733721, GIOU: 0.711785), Class: 0.836541, Obj: 0.004369, No Obj: 0.000009, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.728576, GIOU: 0.725676), Class: 0.989145, Obj: 0.742400, No Obj: 0.000735, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.780795, GIOU: 0.769711), Class: 0.980326, Obj: 0.569618, No Obj: 0.000047, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.683473, GIOU: 0.654465), Class: 0.972231, Obj: 0.054259, No Obj: 0.000028, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.751292, GIOU: 0.738821), Class: 0.983905, Obj: 0.415382, No Obj: 0.001261, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.797449, GIOU: 0.785231), Class: 0.991976, Obj: 0.676390, No Obj: 0.000168, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.745663, GIOU: 0.722428), Class: 0.992019, Obj: 0.743562, No Obj: 0.000657, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.857814, GIOU: 0.857372), Class: 0.939234, Obj: 0.120181, No Obj: 0.000051, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1247: 0.207659, 0.192422 avg loss, 0.001000 rate, 2.048847 seconds, 79808 images
+Loaded: 0.651003 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.919561, GIOU: 0.918313), Class: 0.970686, Obj: 0.408939, No Obj: 0.000585, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000041, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.635599, GIOU: 0.605087), Class: 0.975128, Obj: 0.102910, No Obj: 0.000020, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.838515, GIOU: 0.835792), Class: 0.984255, Obj: 0.801193, No Obj: 0.000809, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.595687, GIOU: 0.595687), Class: 0.999289, Obj: 0.563821, No Obj: 0.000048, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.845268, GIOU: 0.840620), Class: 0.978315, Obj: 0.541570, No Obj: 0.001211, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.771357, GIOU: 0.755629), Class: 0.993649, Obj: 0.542567, No Obj: 0.000058, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.733135, GIOU: 0.715647), Class: 0.988302, Obj: 0.581757, No Obj: 0.000848, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000014, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.763333, GIOU: 0.754855), Class: 0.987149, Obj: 0.430194, No Obj: 0.000617, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000088, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.523295, GIOU: 0.431082), Class: 0.977013, Obj: 0.126690, No Obj: 0.000013, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.724292, GIOU: 0.714636), Class: 0.984997, Obj: 0.758680, No Obj: 0.000533, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.714814, GIOU: 0.692453), Class: 0.979470, Obj: 0.015747, No Obj: 0.000101, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.761309, GIOU: 0.749354), Class: 0.993023, Obj: 0.866781, No Obj: 0.000732, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.700555, GIOU: 0.686653), Class: 0.976673, Obj: 0.173195, No Obj: 0.000077, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.830070, GIOU: 0.826477), Class: 0.935197, Obj: 0.000350, No Obj: 0.000005, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.735861, GIOU: 0.734861), Class: 0.984385, Obj: 0.640590, No Obj: 0.000838, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000053, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.791918, GIOU: 0.784063), Class: 0.975349, Obj: 0.207075, No Obj: 0.000032, .5R: 1.000000, .75R: 0.666667, count: 3
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1248: 0.161066, 0.189286 avg loss, 0.001000 rate, 1.953211 seconds, 79872 images
+Loaded: 0.073619 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.744357, GIOU: 0.743394), Class: 0.979561, Obj: 0.239112, No Obj: 0.000965, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.740825, GIOU: 0.731918), Class: 0.980841, Obj: 0.611330, No Obj: 0.001315, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.847887, GIOU: 0.847888), Class: 0.963415, Obj: 0.269594, No Obj: 0.000135, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.473776, GIOU: 0.473775), Class: 0.964128, Obj: 0.037674, No Obj: 0.000012, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.683228, GIOU: 0.668684), Class: 0.970675, Obj: 0.425756, No Obj: 0.000835, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.796761, GIOU: 0.796405), Class: 0.998385, Obj: 0.661883, No Obj: 0.000071, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.403443, GIOU: 0.275904), Class: 0.958644, Obj: 0.003078, No Obj: 0.000007, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.685163, GIOU: 0.669071), Class: 0.964740, Obj: 0.572478, No Obj: 0.000705, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.796319, GIOU: 0.794487), Class: 0.990146, Obj: 0.218441, No Obj: 0.000025, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.534869, GIOU: 0.448175), Class: 0.994197, Obj: 0.352437, No Obj: 0.000034, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.768172, GIOU: 0.767652), Class: 0.981862, Obj: 0.640828, No Obj: 0.001020, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.704419, GIOU: 0.704419), Class: 0.996661, Obj: 0.270011, No Obj: 0.000027, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000016, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.682186, GIOU: 0.676626), Class: 0.979123, Obj: 0.703769, No Obj: 0.001147, .5R: 0.666667, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.733581, GIOU: 0.722067), Class: 0.995134, Obj: 0.165305, No Obj: 0.000046, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000016, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.681590, GIOU: 0.681591), Class: 0.990324, Obj: 0.935337, No Obj: 0.000341, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000055, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.687967, GIOU: 0.670264), Class: 0.979777, Obj: 0.279179, No Obj: 0.000043, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.575847, GIOU: 0.575847), Class: 0.994825, Obj: 0.532147, No Obj: 0.000470, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.660911, GIOU: 0.642771), Class: 0.989608, Obj: 0.303404, No Obj: 0.000098, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.691783, GIOU: 0.672524), Class: 0.996418, Obj: 0.032496, No Obj: 0.000038, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1249: 0.227978, 0.193156 avg loss, 0.001000 rate, 2.001721 seconds, 79936 images
+Loaded: 0.209502 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.733079, GIOU: 0.732798), Class: 0.993389, Obj: 0.816040, No Obj: 0.000468, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.732912, GIOU: 0.732912), Class: 0.994987, Obj: 0.412512, No Obj: 0.000051, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.761462, GIOU: 0.751981), Class: 0.990974, Obj: 0.718610, No Obj: 0.000590, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.773834, GIOU: 0.757780), Class: 0.995453, Obj: 0.026543, No Obj: 0.000026, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.755375, GIOU: 0.743554), Class: 0.976228, Obj: 0.582446, No Obj: 0.000872, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000025, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.720896, GIOU: 0.696626), Class: 0.993142, Obj: 0.182289, No Obj: 0.000021, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000231, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.590665, GIOU: 0.565206), Class: 0.997407, Obj: 0.275266, No Obj: 0.000041, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.772086, GIOU: 0.756528), Class: 0.982795, Obj: 0.605483, No Obj: 0.001029, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000031, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000026, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.798862, GIOU: 0.787809), Class: 0.988937, Obj: 0.489824, No Obj: 0.000052, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.460776, GIOU: 0.329038), Class: 0.974649, Obj: 0.004047, No Obj: 0.000012, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.648338, GIOU: 0.648337), Class: 0.987100, Obj: 0.814060, No Obj: 0.000281, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.503385, GIOU: 0.443098), Class: 0.973984, Obj: 0.062273, No Obj: 0.000016, .5R: 0.500000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.746696, GIOU: 0.736392), Class: 0.978990, Obj: 0.806379, No Obj: 0.001161, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.637305, GIOU: 0.629578), Class: 0.958946, Obj: 0.044382, No Obj: 0.000013, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1250: 0.169108, 0.190751 avg loss, 0.001000 rate, 1.981129 seconds, 80000 images
+Resizing
+416 x 416 
+ try to allocate additional workspace_size = 1213.50 MB 
+ CUDA allocate done! 
+Loaded: 1.085545 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.652624, GIOU: 0.652624), Class: 0.993399, Obj: 0.965270, No Obj: 0.000485, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.715007, GIOU: 0.706608), Class: 0.983041, Obj: 0.374586, No Obj: 0.000236, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000024, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.865424, GIOU: 0.861246), Class: 0.984518, Obj: 0.946129, No Obj: 0.000910, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000087, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.680183, GIOU: 0.644505), Class: 0.995733, Obj: 0.307559, No Obj: 0.000009, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.767848, GIOU: 0.766525), Class: 0.982749, Obj: 0.619058, No Obj: 0.001447, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000043, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.588464, GIOU: 0.554442), Class: 0.965833, Obj: 0.151955, No Obj: 0.000015, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.696218, GIOU: 0.694690), Class: 0.992401, Obj: 0.658991, No Obj: 0.000856, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.792062, GIOU: 0.792062), Class: 0.987798, Obj: 0.367396, No Obj: 0.000188, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.769289, GIOU: 0.755502), Class: 0.971690, Obj: 0.072265, No Obj: 0.000039, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.784189, GIOU: 0.774592), Class: 0.985695, Obj: 0.704985, No Obj: 0.000597, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.691247, GIOU: 0.673684), Class: 0.984342, Obj: 0.258226, No Obj: 0.000168, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.538535, GIOU: 0.461951), Class: 0.996405, Obj: 0.086943, No Obj: 0.000051, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.673714, GIOU: 0.673714), Class: 0.986626, Obj: 0.694968, No Obj: 0.001080, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.687692, GIOU: 0.687692), Class: 0.998807, Obj: 0.168276, No Obj: 0.000088, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.631953, GIOU: 0.581606), Class: 0.987043, Obj: 0.576855, No Obj: 0.000019, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.753564, GIOU: 0.748843), Class: 0.987479, Obj: 0.861405, No Obj: 0.000951, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.769520, GIOU: 0.769187), Class: 0.966373, Obj: 0.147138, No Obj: 0.000115, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.768478, GIOU: 0.761200), Class: 0.967114, Obj: 0.423491, No Obj: 0.000761, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.918983, GIOU: 0.918566), Class: 0.970208, Obj: 0.356302, No Obj: 0.000090, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1251: 0.188979, 0.190574 avg loss, 0.001000 rate, 1.337291 seconds, 80064 images
+Loaded: 0.067249 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.761132, GIOU: 0.752637), Class: 0.984823, Obj: 0.659561, No Obj: 0.001151, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.926229, GIOU: 0.925243), Class: 0.986983, Obj: 0.380588, No Obj: 0.000116, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.766328, GIOU: 0.760822), Class: 0.979468, Obj: 0.009364, No Obj: 0.000038, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.742815, GIOU: 0.723257), Class: 0.990577, Obj: 0.883228, No Obj: 0.000668, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.839798, GIOU: 0.835713), Class: 0.962742, Obj: 0.551935, No Obj: 0.000126, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.730460, GIOU: 0.730460), Class: 0.992558, Obj: 0.150665, No Obj: 0.000023, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.823440, GIOU: 0.822450), Class: 0.991104, Obj: 0.738204, No Obj: 0.000979, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.611267, GIOU: 0.586601), Class: 0.989979, Obj: 0.502379, No Obj: 0.000106, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.684163, GIOU: 0.676734), Class: 0.988447, Obj: 0.162249, No Obj: 0.000070, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.805909, GIOU: 0.798683), Class: 0.982917, Obj: 0.895272, No Obj: 0.001499, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.663888, GIOU: 0.623154), Class: 0.964252, Obj: 0.667729, No Obj: 0.000130, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.740747, GIOU: 0.728420), Class: 0.993569, Obj: 0.259965, No Obj: 0.000050, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.746440, GIOU: 0.739551), Class: 0.969847, Obj: 0.812476, No Obj: 0.000901, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.685699, GIOU: 0.663876), Class: 0.995365, Obj: 0.710061, No Obj: 0.000079, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.521106, GIOU: 0.486774), Class: 0.995265, Obj: 0.035385, No Obj: 0.000024, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.733752, GIOU: 0.733752), Class: 0.973960, Obj: 0.427861, No Obj: 0.000744, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.660691, GIOU: 0.660690), Class: 0.989582, Obj: 0.812116, No Obj: 0.000097, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.564824, GIOU: 0.552368), Class: 0.980191, Obj: 0.458996, No Obj: 0.000037, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.791730, GIOU: 0.778944), Class: 0.985715, Obj: 0.341088, No Obj: 0.000626, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000028, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.717204, GIOU: 0.708460), Class: 0.979682, Obj: 0.402597, No Obj: 0.000045, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.591250, GIOU: 0.591250), Class: 0.988593, Obj: 0.496207, No Obj: 0.000551, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.770810, GIOU: 0.761208), Class: 0.994490, Obj: 0.264681, No Obj: 0.000127, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.601786, GIOU: 0.549743), Class: 0.999084, Obj: 0.444504, No Obj: 0.000035, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1252: 0.214057, 0.192922 avg loss, 0.001000 rate, 1.339511 seconds, 80128 images
+Loaded: 0.268464 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.828387, GIOU: 0.814308), Class: 0.992177, Obj: 0.958575, No Obj: 0.001596, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.735665, GIOU: 0.714579), Class: 0.980331, Obj: 0.603098, No Obj: 0.000225, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000280, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.790601, GIOU: 0.771386), Class: 0.988042, Obj: 0.362153, No Obj: 0.000280, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.680516, GIOU: 0.634411), Class: 0.984264, Obj: 0.160850, No Obj: 0.000042, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000492, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.746940, GIOU: 0.746434), Class: 0.989702, Obj: 0.468134, No Obj: 0.000109, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.319769, GIOU: 0.301372), Class: 0.983313, Obj: 0.362396, No Obj: 0.000027, .5R: 0.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.966309, GIOU: 0.966260), Class: 0.983648, Obj: 0.956715, No Obj: 0.001067, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.868570, GIOU: 0.868570), Class: 0.994965, Obj: 0.542351, No Obj: 0.000126, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.415711, GIOU: 0.387920), Class: 0.976482, Obj: 0.018839, No Obj: 0.000008, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000295, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.701670, GIOU: 0.690578), Class: 0.972053, Obj: 0.367405, No Obj: 0.000279, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.904972, GIOU: 0.904587), Class: 0.994547, Obj: 0.844779, No Obj: 0.000543, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.792290, GIOU: 0.787485), Class: 0.993581, Obj: 0.426453, No Obj: 0.000232, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.786954, GIOU: 0.782477), Class: 0.971845, Obj: 0.267303, No Obj: 0.000028, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000018, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000058, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.866083, GIOU: 0.866082), Class: 0.997770, Obj: 0.452138, No Obj: 0.000018, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000225, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.771930, GIOU: 0.771930), Class: 0.998525, Obj: 0.898290, No Obj: 0.000234, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.647331, GIOU: 0.632961), Class: 0.977221, Obj: 0.067513, No Obj: 0.000021, .5R: 1.000000, .75R: 0.000000, count: 3
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1253: 0.302431, 0.203873 avg loss, 0.001000 rate, 1.361671 seconds, 80192 images
+Loaded: 0.159054 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.823128, GIOU: 0.820312), Class: 0.989965, Obj: 0.891089, No Obj: 0.000467, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.772306, GIOU: 0.761623), Class: 0.984072, Obj: 0.426511, No Obj: 0.000273, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.571980, GIOU: 0.543837), Class: 0.989040, Obj: 0.632764, No Obj: 0.000029, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.732062, GIOU: 0.713502), Class: 0.983735, Obj: 0.918726, No Obj: 0.001208, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.711925, GIOU: 0.711925), Class: 0.986613, Obj: 0.483040, No Obj: 0.000187, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.685405, GIOU: 0.669673), Class: 0.982705, Obj: 0.108111, No Obj: 0.000036, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.785630, GIOU: 0.783664), Class: 0.981541, Obj: 0.603681, No Obj: 0.001069, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000104, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.734736, GIOU: 0.721523), Class: 0.982789, Obj: 0.122093, No Obj: 0.000028, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.893263, GIOU: 0.893263), Class: 0.990404, Obj: 0.866274, No Obj: 0.000765, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.795532, GIOU: 0.787630), Class: 0.989488, Obj: 0.532953, No Obj: 0.000161, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.902758, GIOU: 0.900490), Class: 0.991178, Obj: 0.286865, No Obj: 0.000048, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.667364, GIOU: 0.640961), Class: 0.987567, Obj: 0.623522, No Obj: 0.000739, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.653860, GIOU: 0.638548), Class: 0.978635, Obj: 0.537251, No Obj: 0.000106, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.740542, GIOU: 0.724718), Class: 0.969601, Obj: 0.115069, No Obj: 0.000034, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000108, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.676185, GIOU: 0.668469), Class: 0.985806, Obj: 0.474093, No Obj: 0.000429, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.760923, GIOU: 0.746493), Class: 0.985566, Obj: 0.068477, No Obj: 0.000050, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.685273, GIOU: 0.682326), Class: 0.976902, Obj: 0.452459, No Obj: 0.001301, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.582048, GIOU: 0.507259), Class: 0.993410, Obj: 0.295748, No Obj: 0.000135, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.690432, GIOU: 0.663283), Class: 0.993690, Obj: 0.716448, No Obj: 0.000243, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000133, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.770052, GIOU: 0.759635), Class: 0.998841, Obj: 0.195558, No Obj: 0.000012, .5R: 1.000000, .75R: 1.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1254: 0.221067, 0.205592 avg loss, 0.001000 rate, 1.340017 seconds, 80256 images
+Loaded: 0.178679 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.574239, GIOU: 0.554481), Class: 0.986856, Obj: 0.027499, No Obj: 0.000066, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000075, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.819473, GIOU: 0.810329), Class: 0.968320, Obj: 0.059255, No Obj: 0.000015, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.870352, GIOU: 0.869976), Class: 0.975361, Obj: 0.500279, No Obj: 0.000748, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.548705, GIOU: 0.466915), Class: 0.943735, Obj: 0.103386, No Obj: 0.000056, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.793027, GIOU: 0.784914), Class: 0.987486, Obj: 0.654993, No Obj: 0.000590, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.853745, GIOU: 0.847904), Class: 0.986110, Obj: 0.877453, No Obj: 0.000136, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.721189, GIOU: 0.700937), Class: 0.962703, Obj: 0.063311, No Obj: 0.000034, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.715750, GIOU: 0.711318), Class: 0.993561, Obj: 0.486529, No Obj: 0.000139, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.721650, GIOU: 0.696884), Class: 0.950278, Obj: 0.524785, No Obj: 0.000255, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.805346, GIOU: 0.798302), Class: 0.990053, Obj: 0.577323, No Obj: 0.000044, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000106, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.708895, GIOU: 0.702448), Class: 0.995562, Obj: 0.512789, No Obj: 0.000345, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.744968, GIOU: 0.723318), Class: 0.983815, Obj: 0.141736, No Obj: 0.000043, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.600277, GIOU: 0.573295), Class: 0.965869, Obj: 0.024026, No Obj: 0.000047, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.837955, GIOU: 0.832746), Class: 0.962811, Obj: 0.026048, No Obj: 0.000507, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.762857, GIOU: 0.761368), Class: 0.993249, Obj: 0.613355, No Obj: 0.000282, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.583303, GIOU: 0.578279), Class: 0.982033, Obj: 0.077685, No Obj: 0.000063, .5R: 0.666667, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.841912, GIOU: 0.840806), Class: 0.989264, Obj: 0.741447, No Obj: 0.001052, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.777635, GIOU: 0.777635), Class: 0.996574, Obj: 0.819633, No Obj: 0.000159, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.757975, GIOU: 0.751167), Class: 0.991711, Obj: 0.111769, No Obj: 0.000050, .5R: 1.000000, .75R: 0.500000, count: 2
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1255: 0.179399, 0.202973 avg loss, 0.001000 rate, 1.335601 seconds, 80320 images
+Loaded: 0.317677 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000231, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.857353, GIOU: 0.854763), Class: 0.987805, Obj: 0.625519, No Obj: 0.000407, .5R: 1.000000, .75R: 1.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.409175, GIOU: 0.233547), Class: 0.949678, Obj: 0.051392, No Obj: 0.000018, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.664526, GIOU: 0.644854), Class: 0.984633, Obj: 0.369934, No Obj: 0.000797, .5R: 1.000000, .75R: 0.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.672320, GIOU: 0.666894), Class: 0.976287, Obj: 0.440332, No Obj: 0.000210, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.584850, GIOU: 0.545563), Class: 0.963639, Obj: 0.076234, No Obj: 0.000063, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.432358, GIOU: 0.432359), Class: 0.994575, Obj: 0.346607, No Obj: 0.000097, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000092, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.850544, GIOU: 0.850544), Class: 0.982999, Obj: 0.224788, No Obj: 0.000033, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.571143, GIOU: 0.551316), Class: 0.984354, Obj: 0.418993, No Obj: 0.000403, .5R: 0.666667, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000193, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.643597, GIOU: 0.643597), Class: 0.994586, Obj: 0.220920, No Obj: 0.000026, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.682296, GIOU: 0.682295), Class: 0.985708, Obj: 0.429736, No Obj: 0.000247, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.746044, GIOU: 0.739287), Class: 0.992666, Obj: 0.087744, No Obj: 0.000119, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.875544, GIOU: 0.874301), Class: 0.977060, Obj: 0.298280, No Obj: 0.000093, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.674012, GIOU: 0.659840), Class: 0.950242, Obj: 0.001050, No Obj: 0.000022, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.802055, GIOU: 0.801539), Class: 0.984768, Obj: 0.795515, No Obj: 0.000236, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.637384, GIOU: 0.628987), Class: 0.991059, Obj: 0.174099, No Obj: 0.000042, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.725628, GIOU: 0.725627), Class: 0.995198, Obj: 0.456408, No Obj: 0.000217, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.745720, GIOU: 0.737349), Class: 0.976789, Obj: 0.649159, No Obj: 0.000297, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.370493, GIOU: 0.368853), Class: 0.959485, Obj: 0.029644, No Obj: 0.000031, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.795147, GIOU: 0.781429), Class: 0.990307, Obj: 0.415287, No Obj: 0.000473, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.792847, GIOU: 0.791815), Class: 0.990892, Obj: 0.433791, No Obj: 0.000252, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.714900, GIOU: 0.687875), Class: 0.975834, Obj: 0.095495, No Obj: 0.000057, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1256: 0.248538, 0.207530 avg loss, 0.001000 rate, 1.346856 seconds, 80384 images
+Loaded: 0.302501 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000104, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.773783, GIOU: 0.773783), Class: 0.985336, Obj: 0.075955, No Obj: 0.000078, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.757887, GIOU: 0.757886), Class: 0.993340, Obj: 0.565551, No Obj: 0.000030, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.884964, GIOU: 0.883357), Class: 0.992276, Obj: 0.975106, No Obj: 0.000392, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.704169, GIOU: 0.699797), Class: 0.987167, Obj: 0.669571, No Obj: 0.000337, .5R: 1.000000, .75R: 0.000000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.332601, GIOU: 0.332601), Class: 0.971927, Obj: 0.001001, No Obj: 0.000039, .5R: 0.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000063, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.703284, GIOU: 0.677757), Class: 0.988226, Obj: 0.910468, No Obj: 0.000210, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000022, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.721255, GIOU: 0.717057), Class: 0.994860, Obj: 0.480956, No Obj: 0.000335, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.754713, GIOU: 0.736862), Class: 0.990080, Obj: 0.049916, No Obj: 0.000239, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.803858, GIOU: 0.803858), Class: 0.978763, Obj: 0.224152, No Obj: 0.000035, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.576876, GIOU: 0.514910), Class: 0.977588, Obj: 0.134264, No Obj: 0.000227, .5R: 0.666667, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.894254, GIOU: 0.891140), Class: 0.985677, Obj: 0.443407, No Obj: 0.000383, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.753008, GIOU: 0.741882), Class: 0.948503, Obj: 0.045806, No Obj: 0.000115, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.641732, GIOU: 0.637051), Class: 0.973549, Obj: 0.426612, No Obj: 0.000158, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.862572, GIOU: 0.862432), Class: 0.987234, Obj: 0.229644, No Obj: 0.000036, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000101, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.690357, GIOU: 0.688682), Class: 0.977481, Obj: 0.285890, No Obj: 0.000267, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.643323, GIOU: 0.634898), Class: 0.948237, Obj: 0.218709, No Obj: 0.000041, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.688592, GIOU: 0.688592), Class: 0.977279, Obj: 0.014275, No Obj: 0.000249, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.790413, GIOU: 0.788970), Class: 0.978265, Obj: 0.316148, No Obj: 0.000588, .5R: 1.000000, .75R: 0.666667, count: 6
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000037, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1257: 0.219615, 0.208738 avg loss, 0.001000 rate, 1.353589 seconds, 80448 images
+Loaded: 0.271636 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.883066, GIOU: 0.882101), Class: 0.968305, Obj: 0.166437, No Obj: 0.000302, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.817655, GIOU: 0.817655), Class: 0.991960, Obj: 0.707257, No Obj: 0.000161, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.687268, GIOU: 0.683149), Class: 0.993092, Obj: 0.316854, No Obj: 0.000063, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000053, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.755046, GIOU: 0.749375), Class: 0.986941, Obj: 0.877867, No Obj: 0.000526, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.759358, GIOU: 0.747260), Class: 0.973200, Obj: 0.181593, No Obj: 0.000069, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.611414, GIOU: 0.611414), Class: 0.990568, Obj: 0.128624, No Obj: 0.000078, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.773701, GIOU: 0.773701), Class: 0.996427, Obj: 0.714786, No Obj: 0.000297, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.394085, GIOU: 0.344173), Class: 0.952769, Obj: 0.026900, No Obj: 0.000021, .5R: 0.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.796785, GIOU: 0.790387), Class: 0.989968, Obj: 0.034981, No Obj: 0.000029, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000230, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.751280, GIOU: 0.737746), Class: 0.975495, Obj: 0.260488, No Obj: 0.000048, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.807402, GIOU: 0.805002), Class: 0.977613, Obj: 0.607641, No Obj: 0.000483, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.780067, GIOU: 0.780066), Class: 0.979474, Obj: 0.799810, No Obj: 0.000074, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.718290, GIOU: 0.702186), Class: 0.958464, Obj: 0.343705, No Obj: 0.000020, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.655349, GIOU: 0.639714), Class: 0.971656, Obj: 0.354435, No Obj: 0.000275, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.731338, GIOU: 0.713732), Class: 0.983114, Obj: 0.510079, No Obj: 0.000405, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.759897, GIOU: 0.752097), Class: 0.995809, Obj: 0.604344, No Obj: 0.000062, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.718307, GIOU: 0.713781), Class: 0.995446, Obj: 0.475156, No Obj: 0.000138, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.704797, GIOU: 0.696547), Class: 0.974073, Obj: 0.741439, No Obj: 0.000324, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.653392, GIOU: 0.643643), Class: 0.963398, Obj: 0.012346, No Obj: 0.000018, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000059, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.821970, GIOU: 0.821708), Class: 0.982982, Obj: 0.489911, No Obj: 0.000230, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.739580, GIOU: 0.722251), Class: 0.987248, Obj: 0.202833, No Obj: 0.000037, .5R: 1.000000, .75R: 0.500000, count: 2
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1258: 0.244267, 0.212291 avg loss, 0.001000 rate, 1.341164 seconds, 80512 images
+Loaded: 0.128991 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.789064, GIOU: 0.785609), Class: 0.991131, Obj: 0.648824, No Obj: 0.000181, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000115, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000105, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.681779, GIOU: 0.643571), Class: 0.992543, Obj: 0.822778, No Obj: 0.000335, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.754382, GIOU: 0.737797), Class: 0.977084, Obj: 0.000420, No Obj: 0.000034, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.773418, GIOU: 0.772031), Class: 0.982235, Obj: 0.490060, No Obj: 0.000113, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.705371, GIOU: 0.705370), Class: 0.995453, Obj: 0.506608, No Obj: 0.000031, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000012, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.845304, GIOU: 0.845304), Class: 0.992667, Obj: 0.560561, No Obj: 0.000263, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.788693, GIOU: 0.787358), Class: 0.990300, Obj: 0.163039, No Obj: 0.000064, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.724884, GIOU: 0.701779), Class: 0.991117, Obj: 0.540620, No Obj: 0.000778, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.641186, GIOU: 0.616709), Class: 0.976568, Obj: 0.721300, No Obj: 0.000311, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.612812, GIOU: 0.612812), Class: 0.995366, Obj: 0.396955, No Obj: 0.000043, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.807220, GIOU: 0.802831), Class: 0.967084, Obj: 0.334846, No Obj: 0.000657, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.603213, GIOU: 0.542195), Class: 0.978078, Obj: 0.331054, No Obj: 0.000143, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.773945, GIOU: 0.773945), Class: 0.993692, Obj: 0.320550, No Obj: 0.000028, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.803116, GIOU: 0.796545), Class: 0.995640, Obj: 0.582259, No Obj: 0.000578, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.819084, GIOU: 0.815835), Class: 0.984767, Obj: 0.821785, No Obj: 0.000225, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000024, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.591834, GIOU: 0.591834), Class: 0.988377, Obj: 0.818377, No Obj: 0.000489, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.710183, GIOU: 0.710184), Class: 0.988591, Obj: 0.671674, No Obj: 0.000024, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1259: 0.139050, 0.204967 avg loss, 0.001000 rate, 1.322680 seconds, 80576 images
+Loaded: 0.499599 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000062, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.698890, GIOU: 0.681265), Class: 0.977655, Obj: 0.384668, No Obj: 0.000181, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000036, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.601651, GIOU: 0.573171), Class: 0.988642, Obj: 0.572011, No Obj: 0.000406, .5R: 1.000000, .75R: 0.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.710212, GIOU: 0.710212), Class: 0.995592, Obj: 0.625056, No Obj: 0.000117, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.740528, GIOU: 0.740528), Class: 0.997078, Obj: 0.449319, No Obj: 0.000038, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000011, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000033, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.690007, GIOU: 0.690007), Class: 0.993917, Obj: 0.301444, No Obj: 0.000051, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.770174, GIOU: 0.768348), Class: 0.988746, Obj: 0.532490, No Obj: 0.000594, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.824216, GIOU: 0.818418), Class: 0.988471, Obj: 0.171119, No Obj: 0.000158, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.848001, GIOU: 0.848001), Class: 0.971184, Obj: 0.052164, No Obj: 0.000045, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.721956, GIOU: 0.719462), Class: 0.996067, Obj: 0.818643, No Obj: 0.000783, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.751524, GIOU: 0.751524), Class: 0.995259, Obj: 0.849125, No Obj: 0.000128, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.733152, GIOU: 0.724421), Class: 0.981236, Obj: 0.114950, No Obj: 0.000053, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000032, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.611647, GIOU: 0.555035), Class: 0.965351, Obj: 0.251136, No Obj: 0.000170, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.718846, GIOU: 0.714111), Class: 0.994709, Obj: 0.261244, No Obj: 0.000033, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000015, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.577127, GIOU: 0.538260), Class: 0.980001, Obj: 0.327307, No Obj: 0.000089, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.717223, GIOU: 0.716787), Class: 0.980210, Obj: 0.126868, No Obj: 0.000047, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.690070, GIOU: 0.670551), Class: 0.982374, Obj: 0.164341, No Obj: 0.000297, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.760880, GIOU: 0.741184), Class: 0.989335, Obj: 0.700375, No Obj: 0.000399, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.855810, GIOU: 0.853210), Class: 0.984955, Obj: 0.223652, No Obj: 0.000097, .5R: 1.000000, .75R: 1.000000, count: 5
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1260: 0.191004, 0.203571 avg loss, 0.001000 rate, 1.336466 seconds, 80640 images
+Resizing
+576 x 576 
+ try to allocate additional workspace_size = 384.20 MB 
+ CUDA allocate done! 
+Loaded: 0.309491 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.770185, GIOU: 0.767622), Class: 0.957862, Obj: 0.260073, No Obj: 0.000295, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000017, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.775987, GIOU: 0.772341), Class: 0.972867, Obj: 0.432254, No Obj: 0.000965, .5R: 1.000000, .75R: 0.500000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.672346, GIOU: 0.665432), Class: 0.979290, Obj: 0.325168, No Obj: 0.000014, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.788052, GIOU: 0.784166), Class: 0.986071, Obj: 0.617971, No Obj: 0.000947, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.510531, GIOU: 0.510531), Class: 0.966304, Obj: 0.255450, No Obj: 0.000021, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.821155, GIOU: 0.820827), Class: 0.989479, Obj: 0.552743, No Obj: 0.000555, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000023, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.727483, GIOU: 0.715936), Class: 0.982572, Obj: 0.542049, No Obj: 0.000592, .5R: 1.000000, .75R: 0.400000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.644502, GIOU: 0.614287), Class: 0.976151, Obj: 0.213565, No Obj: 0.000407, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.707018, GIOU: 0.684747), Class: 0.993878, Obj: 0.720260, No Obj: 0.000057, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.817073, GIOU: 0.815173), Class: 0.981092, Obj: 0.450819, No Obj: 0.001016, .5R: 1.000000, .75R: 0.800000, count: 5
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000005, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.786295, GIOU: 0.778256), Class: 0.993561, Obj: 0.561146, No Obj: 0.000499, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.747990, GIOU: 0.747992), Class: 0.990274, Obj: 0.057413, No Obj: 0.000019, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000003, .5R: -nan, .75R: -nan, count: 0
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1261: 0.189490, 0.202163 avg loss, 0.001000 rate, 2.151016 seconds, 80704 images
+Loaded: 0.593977 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.734577, GIOU: 0.722053), Class: 0.981850, Obj: 0.435308, No Obj: 0.000504, .5R: 1.000000, .75R: 0.333333, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.780984, GIOU: 0.780113), Class: 0.983360, Obj: 0.417346, No Obj: 0.000064, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000019, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.706360, GIOU: 0.705698), Class: 0.971562, Obj: 0.450520, No Obj: 0.000689, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.614478, GIOU: 0.614478), Class: 0.980662, Obj: 0.109339, No Obj: 0.000032, .5R: 0.500000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000008, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.644059, GIOU: 0.638780), Class: 0.984164, Obj: 0.252677, No Obj: 0.000311, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000029, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.883350, GIOU: 0.883350), Class: 0.997734, Obj: 0.261669, No Obj: 0.000009, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.783513, GIOU: 0.781366), Class: 0.986672, Obj: 0.315988, No Obj: 0.000322, .5R: 1.000000, .75R: 0.500000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.810102, GIOU: 0.803650), Class: 0.958434, Obj: 0.009185, No Obj: 0.000006, .5R: 1.000000, .75R: 1.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.525016, GIOU: 0.435213), Class: 0.947417, Obj: 0.051560, No Obj: 0.000007, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.834940, GIOU: 0.824503), Class: 0.990125, Obj: 0.684340, No Obj: 0.000599, .5R: 1.000000, .75R: 0.750000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000007, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.780893, GIOU: 0.774675), Class: 0.972639, Obj: 0.725345, No Obj: 0.001213, .5R: 1.000000, .75R: 0.714286, count: 7
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.863194, GIOU: 0.860719), Class: 0.987987, Obj: 0.543421, No Obj: 0.000353, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000004, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.791220, GIOU: 0.781940), Class: 0.986246, Obj: 0.716753, No Obj: 0.000636, .5R: 1.000000, .75R: 1.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000010, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.724335, GIOU: 0.701220), Class: 0.990980, Obj: 0.574751, No Obj: 0.000018, .5R: 1.000000, .75R: 0.000000, count: 1
+
+ (next mAP calculation at 1300 iterations) 
+ Last accuracy mAP@0.5 = 93.85 %, best = 93.85 % 
+ 1262: 0.173903, 0.199337 avg loss, 0.001000 rate, 2.165756 seconds, 80768 images
+Loaded: 0.992670 seconds
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.763125, GIOU: 0.752545), Class: 0.997550, Obj: 0.655727, No Obj: 0.000573, .5R: 1.000000, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000013, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.682442, GIOU: 0.647115), Class: 0.971600, Obj: 0.082095, No Obj: 0.000011, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.719359, GIOU: 0.702170), Class: 0.983891, Obj: 0.550216, No Obj: 0.000762, .5R: 1.000000, .75R: 0.250000, count: 4
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000009, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000002, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.527763, GIOU: 0.527763), Class: 0.954462, Obj: 0.196444, No Obj: 0.000409, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.787585, GIOU: 0.779234), Class: 0.982822, Obj: 0.066390, No Obj: 0.000022, .5R: 1.000000, .75R: 1.000000, count: 2
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.680906, GIOU: 0.671682), Class: 0.978960, Obj: 0.191100, No Obj: 0.000011, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.659362, GIOU: 0.645252), Class: 0.988774, Obj: 0.529483, No Obj: 0.000432, .5R: 1.000000, .75R: 0.000000, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: 0.674241, GIOU: 0.674242), Class: 0.996841, Obj: 0.208558, No Obj: 0.000043, .5R: 1.000000, .75R: 0.000000, count: 1
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000006, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 82 Avg (IOU: 0.693696, GIOU: 0.668217), Class: 0.923586, Obj: 0.358291, No Obj: 0.000606, .5R: 0.666667, .75R: 0.666667, count: 3
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 94 Avg (IOU: -nan, GIOU: -nan), Class: -nan, Obj: -nan, No Obj: 0.000021, .5R: -nan, .75R: -nan, count: 0
+v3 (mse loss, Normalizer: (iou: 0.750000, cls: 1.000000) Region 106 Avg (IOU: 0.764463, 

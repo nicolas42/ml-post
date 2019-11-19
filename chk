@@ -1,1 +1,1 @@
-clear && scp ubuntu@52.65.163.141:~/ml-post/darknet/results.txt ~ && tail -1000 ~/results.txt | grep 'avg loss' | tee results.txt
+clear && scp ubuntu@52.65.163.141:~/ml-post/darknet/results.txt ~ && tail -1000 ~/results.txt | tee results.txt
